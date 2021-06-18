@@ -1,0 +1,39 @@
+.background-form {
+    background : url('../images/bglogin.png') no-repeat  center !important;
+}
+
+.card-bg {
+    background-color : transparent !important;
+}
+
+.wrapper-text {
+    max-width: 55%; 
+}
+
+
+
+
+@media (min-width: 320px) {
+
+    .footer-font-res {
+        font-size: 10px !important;
+    }
+
+    .padding-logo-custom {
+        padding: 1em;
+    }
+
+    .wrapper-text {
+        max-width: 100%; 
+    }
+}
+
+
+
+/*no mobile*/
+@media (min-width: 992px) { 
+    .footer-font-res {
+        font-size: 15px !important;
+        padding: 1em;
+    }
+}

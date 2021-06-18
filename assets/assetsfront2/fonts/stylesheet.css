@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'Centrale Sans XThin';
+    src: url('CentraleSans-XThinItalic.eot');
+    src: local('Centrale Sans XThin Italic'), local('CentraleSans-XThinItalic'),
+        url('CentraleSans-XThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-XThinItalic.woff') format('woff'),
+        url('CentraleSans-XThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSansRegular.eot');
+    src: local('Centrale Sans Regular'), local('CentraleSansRegular'),
+        url('CentraleSansRegular.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSansRegular.woff') format('woff'),
+        url('CentraleSansRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans MediumMedium';
+    src: url('CentraleSans-MediumItalic.eot');
+    src: local('Centrale Sans Medium Italic'), local('CentraleSans-MediumItalic'),
+        url('CentraleSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-MediumItalic.woff') format('woff'),
+        url('CentraleSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSansLightItalic.eot');
+    src: local('Centrale Sans Light Italic'), local('CentraleSansLightItalic'),
+        url('CentraleSansLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSansLightItalic.woff') format('woff'),
+        url('CentraleSansLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSans-BoldItalic.eot');
+    src: local('Centrale Sans Bold Italic'), local('CentraleSans-BoldItalic'),
+        url('CentraleSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-BoldItalic.woff') format('woff'),
+        url('CentraleSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSans-Medium.eot');
+    src: local('Centrale Sans Medium'), local('CentraleSans-Medium'),
+        url('CentraleSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-Medium.woff') format('woff'),
+        url('CentraleSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSans-Thin.eot');
+    src: local('CentraleSans-Thin'),
+        url('CentraleSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-Thin.woff') format('woff'),
+        url('CentraleSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSans-Bold.eot');
+    src: local('Centrale Sans Bold'), local('CentraleSans-Bold'),
+        url('CentraleSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-Bold.woff') format('woff'),
+        url('CentraleSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans XLight';
+    src: url('CentraleSans-XLight.eot');
+    src: local('Centrale Sans XLight'), local('CentraleSans-XLight'),
+        url('CentraleSans-XLight.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-XLight.woff') format('woff'),
+        url('CentraleSans-XLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans XThin';
+    src: url('CentraleSans-XThin.eot');
+    src: local('Centrale Sans XThin'), local('CentraleSans-XThin'),
+        url('CentraleSans-XThin.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-XThin.woff') format('woff'),
+        url('CentraleSans-XThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSansRegularItalic.eot');
+    src: local('Centrale Sans Regular Italic'), local('CentraleSansRegularItalic'),
+        url('CentraleSansRegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSansRegularItalic.woff') format('woff'),
+        url('CentraleSansRegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSans-Light.eot');
+    src: local('CentraleSans-Light'),
+        url('CentraleSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-Light.woff') format('woff'),
+        url('CentraleSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centrale Sans';
+    src: url('CentraleSansThinItalic.eot');
+    src: local('Centrale Sans Thin Italic'), local('CentraleSansThinItalic'),
+        url('CentraleSansThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSansThinItalic.woff') format('woff'),
+        url('CentraleSansThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centrale Sans XLight';
+    src: url('CentraleSans-XLightItalic.eot');
+    src: local('Centrale Sans XLight Italic'), local('CentraleSans-XLightItalic'),
+        url('CentraleSans-XLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('CentraleSans-XLightItalic.woff') format('woff'),
+        url('CentraleSans-XLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
